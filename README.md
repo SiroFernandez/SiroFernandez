@@ -1,14 +1,15 @@
-<h1 align="center">Hola, soy Siro 👋</h1>
+<div align="center">
 
-<p align="center">
-  Estudiante de Ingeniería Informática en la Universidad Complutense de Madrid<br>
-  Desarrollo de software · Organización de proyectos · Diseño de interfaces
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12161C,100:2B3FD6&height=200&section=header&text=Siro%20Fern%C3%A1ndez%20Garc%C3%ADa&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Ingenier%C3%ADa%20Inform%C3%A1tica%20%C2%B7%20UCM&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Siro Fernández García · Ingeniería Informática · UCM"/>
 
-<p align="center">
-  <a href="https://sirofernandez.github.io/Portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-12161C?style=for-the-badge&logo=githubpages&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/siro-fern%C3%A1ndez-garc%C3%ADa"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=4F6BFF&center=true&vCenter=true&repeat=true&width=620&height=40&lines=Hola%2C+soy+Siro;Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica+en+la+UCM;Desarrollo+de+software;Organizaci%C3%B3n+de+proyectos;Dise%C3%B1o+de+interfaces" alt="Hola, soy Siro. Estudiante de Ingeniería Informática. Desarrollo de software, organización de proyectos y diseño de interfaces."/>
+
+<br/>
+
+<a href="https://sirofernandez.github.io/Portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-12161C?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/siro-fern%C3%A1ndez-garc%C3%ADa"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"></a>
+
+</div>
 
 ---
 
@@ -35,19 +36,9 @@ Puedes ver cada proyecto con más detalle en mi **[portfolio](https://sirofernan
 
 ## Tecnologías
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,py,js,ts,c,cpp,php,html,mysql,mongodb,linux,figma&perline=13" alt="Java, Spring Boot, Python, JavaScript, TypeScript, C, C++, PHP, HTML, MySQL, MongoDB, Linux y Figma"/>
+</p>
 
 También tengo conocimientos de ciberseguridad y protección de datos, auditoría de sistemas, administración básica de servidores Windows y configuración de redes locales.
 
@@ -58,3 +49,5 @@ Español (nativo) · Inglés (avanzado) · Portugués (medio-bajo) · Alemán (b
 ## Contacto
 
 Puedes escribirme por [LinkedIn](https://www.linkedin.com/in/siro-fern%C3%A1ndez-garc%C3%ADa) o echar un vistazo a mi [portfolio](https://sirofernandez.github.io/Portfolio/).
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12161C,100:2B3FD6&height=100&section=footer" width="100%" alt=""/>
